@@ -1,4 +1,4 @@
-<h1 align="center" >Intrusion Detection</h1>
+<h1 align="center" >Cyber-Vyuh</h1>
 
 <h2 align="" >About the Project</h2>
 The project uses the NSL-KDD Dataset from Kaggle to create 
